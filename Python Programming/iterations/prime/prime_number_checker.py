@@ -14,8 +14,3 @@ while div < num:
 
 if is_prime == True:
     print("Prime")
-
-
-
-
-
